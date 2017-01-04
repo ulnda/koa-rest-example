@@ -1,0 +1,19 @@
+{
+  "name": "koa-rest-example",
+  "version": "1.0.0",
+  "description": "REST service with Koa Node.js framework",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+ssh://git@github.com/ulnda/koa-rest-example.git"
+  },
+  "author": "ulnda",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/ulnda/koa-rest-example/issues"
+  },
+  "homepage": "https://github.com/ulnda/koa-rest-example#readme"
+}

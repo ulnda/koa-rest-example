@@ -1,0 +1,8 @@
+{
+  "server": {
+    "port": 4002
+  },
+  "app": {
+    "name": "REST service with Koa Node.js framework"
+  }
+}
